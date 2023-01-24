@@ -1,0 +1,75 @@
+{
+  "quartos": [
+      {
+          "numero": 111,
+          "clienteID": 1,
+          "id": 1
+      }
+      ,
+      {
+          "numero": 222,
+          "clienteID": 2,
+          "id": 2
+      }
+      ,
+      {
+          "numero": 333,
+          "clienteID": 3,
+          "id": 3
+      }
+      ,
+      {
+          "numero": 444,
+          "clienteID": 4,
+          "id": 4
+      }
+  ],
+  "funcionarios": [
+      {
+          "nome": "kaio",
+          "area": "Gerente",
+          "id": 1
+      },
+      {
+          "nome": "felipe",
+          "area": "Diretoria",
+          "id": 2
+      }
+      ,
+      {
+          "nome": "lucas",
+          "area": "Porteiro",
+          "id": 3
+      }
+      , {
+          "nome": "GABRIEL",
+          "area": "CHEFE",
+          "id": 4
+      }
+  ],
+  "clientes": [
+      {
+          "nome": "lucca",
+          "cpf": "12345678910",
+          "id": 1
+      }
+      ,
+      {
+          "nome": "arthur",
+          "cpf": "12345678230",
+          "id": 2
+      }
+      ,
+      {
+          "nome": "lisa",
+          "cpf": "12345612340",
+          "id": 3
+      }
+      ,
+      {
+          "nome": "CAROL",
+          "cpf": "12345624560",
+          "id": 4
+      }
+  ]
+}
